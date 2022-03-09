@@ -3,5 +3,5 @@
 ✴️ Almaty, KZ <br>
 <hr>
 Contacts:<br>
-📧 **E-mail**: vonagrut@gmail.com<br>
-🌐 **Telegram**: @turganov_zm
+📧 <h6>E-mail:</h6> vonagrut@gmail.com<br>
+🌐 <h6>Telegram:</h6> @turganov_zm
