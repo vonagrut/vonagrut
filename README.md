@@ -2,7 +2,6 @@
 ✴️ Data Engineer from AO Technodom Operator <br>
 ✴️ Almaty, KZ <br>
 <hr>
-<hr>
 Contacts:<br>
 📧 **E-mail**: vonagrut@gmail.com<br>
 🌐 **Telegram**: @turganov_zm
