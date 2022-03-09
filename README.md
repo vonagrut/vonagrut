@@ -1,5 +1,5 @@
  <h2> Hi all, i'm Zulfikar (Zake ✌)  </h2> <br>
-✴️ Data Engineer from AO Technodom Operator <br>
+✴️ Data Engineer - JSC Technodom Operator <br>
 ✴️ Almaty, KZ <br>
 <hr>
 <h4>Contacts:</h4>
